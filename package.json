@@ -1,0 +1,23 @@
+{
+    "name": "react-gogack",
+    "version": "1.0.0",
+    "scripts": {
+        "client": "cd client && yarn start",
+        "server": "nodemon server.js",
+        "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
+    },
+    "dependences": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4"
+    },
+    "devDependencies": {
+        "concurrently": "^4.1.2"
+    },
+    "main": "index.js",
+    "repository": "https://github.com/tjehdrjs72/React-Management-Tutorial1.git",
+    "author": "tjehdrjs72 <tjehdrjs72@naver.com>",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
