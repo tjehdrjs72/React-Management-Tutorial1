@@ -11,13 +11,14 @@
         "express": "^4.16.4"
     },
     "devDependencies": {
-        "concurrently": "^4.1.2"
+        "concurrently": "^6.2.0"
     },
     "main": "index.js",
     "repository": "https://github.com/tjehdrjs72/React-Management-Tutorial1.git",
     "author": "tjehdrjs72 <tjehdrjs72@naver.com>",
     "license": "MIT",
     "dependencies": {
-        "express": "^4.17.1"
+        "express": "^4.17.1",
+        "mysql": "^2.18.1"
     }
 }

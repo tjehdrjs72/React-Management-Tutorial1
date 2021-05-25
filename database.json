@@ -1,0 +1,7 @@
+{
+    "host": "management-tutorial.cqr7uqstcbt8.us-east-2.rds.amazonaws.com",
+    "user": "user",
+    "password": "109203ss",
+    "port": "3306",
+    "database": "management"
+}
